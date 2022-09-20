@@ -11,7 +11,7 @@ spec:
   source: 
     path: guestbook
     repoURL: "https://github.com/antocecere77/argocd-example-apps.git"
-    targetRevision: v1
+    targetRevision: V1
     directory:
       recurse: true
   syncPolicy:
